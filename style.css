@@ -63,7 +63,7 @@ nav :hover{
 .project-tile{
   display: block;
   height: 200px;
-  width: 200px;
+  width: 350px;
   border: 2px solid #d9cd65;
   margin: 20px;
 }
